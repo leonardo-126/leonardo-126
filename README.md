@@ -6,6 +6,7 @@
 Apaixonado por tecnologia, desenvolvimento web e criação de soluções que geram impacto real.
 </p>
 
+
 ###
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -13,7 +14,7 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 ### 👨‍💻 Sobre mim
 
 - Desenvolvedor Full Stack
-- Especialista em Laravel, React, Vue.js e Bootstrap
+- Especialista em Laravel, React, Vue.js
 - Experiência com APIs REST, bancos de dados e aplicações web escaláveis
 - Sempre estudando novas tecnologias
 - Focado em performance, arquitetura e boas práticas
@@ -105,6 +106,6 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 
 <div align="center">
   
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
 
 </div>
