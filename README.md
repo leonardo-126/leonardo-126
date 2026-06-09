@@ -105,7 +105,7 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leonardo-126/leonardo-126/output/snake.svg" alt="Snake animation" />
 
 </div>
 
