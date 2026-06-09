@@ -7,10 +7,6 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 </p>
 
 
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 👨‍💻 Sobre mim
 
 - Desenvolvedor Full Stack
