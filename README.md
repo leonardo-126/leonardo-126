@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, eu sou Leonardo Paiva</h1>
+<h1 align="center">Olá, eu sou Leonardo Paiva</h1>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack | Laravel • React • Vue.js • Bootstrap</h3>
+<h3 align="center">Desenvolvedor Full Stack | Laravel • React • Vue.js • Bootstrap</h3>
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e criação de soluções que geram impacto real.
@@ -9,22 +9,20 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 ###
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardo-126&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-126&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardo-126&theme=tokyonight" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Sobre mim
 
-- 💼 Desenvolvedor Full Stack
-- 🚀 Especialista em Laravel, React, Vue.js e Bootstrap
-- ⚡ Experiência com APIs REST, bancos de dados e aplicações web escaláveis
-- 🌱 Sempre estudando novas tecnologias
-- 🎯 Focado em performance, arquitetura e boas práticas
+- Desenvolvedor Full Stack
+- Especialista em Laravel, React, Vue.js e Bootstrap
+- Experiência com APIs REST, bancos de dados e aplicações web escaláveis
+- Sempre estudando novas tecnologias
+- Focado em performance, arquitetura e boas práticas
 
 ###
 
