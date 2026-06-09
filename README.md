@@ -8,12 +8,6 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardo-126&theme=tokyonight" />
-</div>
-
-###
-
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Sobre mim
