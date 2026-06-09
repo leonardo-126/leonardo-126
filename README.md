@@ -85,15 +85,15 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 
 <div align="left">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/leonardopaivadevfull/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:leopaiva2016@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/leonardo-126" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
