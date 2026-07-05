@@ -72,7 +72,7 @@ Apaixonado por tecnologia, desenvolvimento web e criação de soluções que ger
 
 ### 🌐 Contato
 
-<div align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/leonardopaivadevfull/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
